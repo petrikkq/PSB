@@ -1,0 +1,17 @@
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\bin\Debug\PSB.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\bin\Debug\PSB.exe
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\bin\Debug\PSB.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Properties.Resources.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.exe
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Top_usage.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Delete_sessions.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Insert_Exception.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Autorization.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Information.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Personal_data.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.AdminForm.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.UserForm.resources
+C:\Users\danil\OneDrive\Рабочий стол\Производственная практика\Интерфейс\PSB\PSB\obj\Debug\PSB.Message.resources
